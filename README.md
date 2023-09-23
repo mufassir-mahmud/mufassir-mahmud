@@ -14,11 +14,3 @@ Skills:  REACT / JS / HTML / CSS
 
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mufassir-mahmud)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mufassir-mahmud)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mufassir-mahmud)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/mufassir-mahmud)  
