@@ -12,10 +12,10 @@ Skills:  REACT / JS / HTML / CSS
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MUfassir+Mahmud;+<Frontend+/+Developer>;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mufassir+Mahmud;+<Frontend+/+Developer>;" />
 </h1> 
 <div align="center"> 
-  <a href="mailto:designwithmehedi@gmail.com">
+  <a href="mailto:mufassirmahmud01821@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mufassir-mahmud-238513210/" target="_blank">
